@@ -1,1 +1,4 @@
 Donot forget to enter your AWS credentials in the AwsCredentials.properties file
+
+Prerequisites: An account in Amazon AWS.
+Place all the .java files in the workspace and run the main.java, follow the instructions given by the application
