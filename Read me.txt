@@ -1,0 +1,1 @@
+Donot forget to enter your AWS credentials in the AwsCredentials.properties file
